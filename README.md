@@ -1,1 +1,1 @@
-Shell is cool
+This repo holds scripts
