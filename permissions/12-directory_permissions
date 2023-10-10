@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir my_dir | chmod --reference ./dir0 ./my_dir
