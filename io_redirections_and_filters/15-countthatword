@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name bin /etc/passwd | sort /etc/passwd | wc -w /etc/passwd
+grep bin /etc/passwd | sort /etc/passwd | wc -w /etc/passwd
