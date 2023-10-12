@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello $varname'
+read name | echo "hello $name."
