@@ -1,2 +1,2 @@
 #!/bin/bash
-./print_every_other_line.sh input.txt
+paste -d'\n' - - < input.txt | cut -f1
