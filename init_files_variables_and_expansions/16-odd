@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '{if(NR%2!=0)print}'
+./print_every_other_line.sh input.txt
