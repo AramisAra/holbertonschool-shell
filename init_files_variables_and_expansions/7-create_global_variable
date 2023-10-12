@@ -1,2 +1,2 @@
 #!/bin/bash
-export BEST="School" = global variable
+export BEST="School"  #globalvariable
