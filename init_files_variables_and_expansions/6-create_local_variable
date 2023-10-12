@@ -1,2 +1,2 @@
 #!/bin/bash
-alias  BEST="School" = local vaiable
+export BEST="School" = local vaiable
