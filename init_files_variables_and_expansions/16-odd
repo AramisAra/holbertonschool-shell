@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n "" input.txt | grep -E '^[[:digit:]]*[01357911...]:'
+perl -ne 'print if $. % 2 == 1'
