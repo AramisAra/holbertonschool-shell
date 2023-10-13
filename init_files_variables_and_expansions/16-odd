@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d'\n' | cut -f1
+grep -n "" input.txt | grep -E '^[[:digit:]]*[01357911...]:'
